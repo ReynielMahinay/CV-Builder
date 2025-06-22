@@ -2,7 +2,7 @@ import "./App.css";
 import React, { use, useState } from "react";
 import ResumeForm from "./components/ResumeForm";
 import ResumeDisplay from "./components/ResumeDisplay";
-import NavInput from "./components/navInput";
+import NavInput from "./components/NavInput";
 import { MdOutlineKeyboardDoubleArrowRight } from "react-icons/md";
 import { MdOutlineKeyboardDoubleArrowLeft } from "react-icons/md";
 
